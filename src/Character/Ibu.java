@@ -11,5 +11,5 @@ public class Ibu extends BaseCharacter implements IChef{
 	public void Cook() {
 		System.out.println(name+" bisa memasak");
 	}
-	
+
 }
