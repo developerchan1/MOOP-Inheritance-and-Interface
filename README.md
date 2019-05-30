@@ -10,7 +10,7 @@ atau
 [*nama aksi*] [*IDKarakter1*,*IDKarakter2*,…,*IDKarakterN*] (Untuk lebih dari 1 ID Karakter)
 ```
 
-Dimana, list nama aksi yang tersedia (in case sensitive), yaitu:
+Dimana, list nama aksi yang tersedia (case-insensitive), yaitu:
 ```
 1.Info
 2.Cook
